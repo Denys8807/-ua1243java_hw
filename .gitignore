@@ -60,7 +60,7 @@ bin/
 
 # Config Files
 *.ini
-.DS_Store
+# .DS_Store
 
 # Binary Files
 *.dat
