@@ -28,6 +28,7 @@ public class pr1 {
                 System.out.println("Invalid choice.");
                 break;
         }
+        sc.close();
     }
 
     public static void reverseWords(Scanner sc) {

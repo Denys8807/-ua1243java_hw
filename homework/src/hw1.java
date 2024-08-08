@@ -25,6 +25,7 @@ public class hw1 {
                 System.out.println("Invalid choice.");
                 break;
         }
+        sc.close();
     }
 
     private static void calculateCircleParameters(Scanner sc) {
